@@ -1,0 +1,33 @@
+ 
+why should i reflect ?
+	i think the first reasion will be me trying to recall what i have learnt and trying to present my experience.
+	It is proven that reflecting on ecperience helps u learn better and remember longer(thast what i think)
+how did diff help me?
+	if i were to find the difference manually.........i would probably quit mid way.because of diff u could say it reduced the time req from hrs to mins as it is very hard to remember where i had made mistake(the mistake was a typo in the 914th line).So u could say it is very helpful
+how will having access to entire history of a file help me?
+	the most obvious one will be the mistakes that i made in the newer file(broken things)
+	maybe some method that i wanted to refer from old versions(roll back)
+	when i want to shift to older versions
+pros and cons of manual commit?
+	
+	pros:
+		i think manual commit is the best option as u will be aware when u saved.(granaulity(scale/level of detail) is at commiters disposal)
+	cons:
+		i may commit it in an very inefficient way
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	maybe because we may forget to coommit the files that changed due to our update.
+
+How can you use the commands git log and git diff to view the history of files?
+	git log:
+		we can use git log to see the different versions and their small comments which tell the changes.
+		we can also use it to find the ID of the version for performing operations such as git diff.
+	git diff:
+		we can use git diff to find the no. of lines added or removed in between versions
+		we mainly use it to find the errors by comparing with the previous version.
+
+How might using version control make you more confident to make changes that could break something?
+		i will be confident as i will always know i can always go back and do changes freely and i can find the bugs pretty easy........
+Now that you have your workspace set up, what do you want to try using Git for?
+	obviusly the above features lol
