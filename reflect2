@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	when i initialize a directory with the COMMAND "git init" the directory becomes a repository .
+	But git doesnt initally create  a commit so when i press git log it gives an error.
+	if i use the COMMAND "git status" then it returns a message telling its a master branch with the files that are not committed.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	between working directory and the repository we have the staging area where the files where the command 
+	"git add" stores .this is mainly meant for us to get more flexibility.(stagin area is like a place before commit).
